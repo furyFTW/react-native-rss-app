@@ -9,6 +9,10 @@
     "mrn": "^0.1.7",
     "react": "^0.14.8",
     "react-native": "^0.24.1",
-    "react-native-vector-icons": "^0.8.5"
+    "react-native-vector-icons": "^0.8.5",
+    "react-native-material-design-styles": "^0.2.6",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-thunk": "^2.0.1"
   }
 }
